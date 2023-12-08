@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/99Qk4F5/a5ab8a8f-071d-49b8-a9d0-46e22c1a9ab3.jpg",
+        "title": "Wedding Planning",
+        "price": "$5,000 - $10,000",
+        "short_description": "Expert wedding planning services",
+        "long_description": "Let us make your dream wedding a reality with our expert wedding planning services. Our experienced team will take care of every detail, from venue selection to catering and decor, ensuring that your special day is perfect in every way."
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/TgSxJNT/anniversary.jpg",
+        "title": "Engagement Parties",
+        "price": "$1,500 - $4,000",
+        "short_description": "Memorable engagement parties",
+        "long_description": "Celebrate your engagement with a memorable party organized by our team. We'll create an atmosphere of love and joy, with creative decorations and entertainment that reflect your unique love story."
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/8M9RzLQ/birthday.jpg",
+        "title": "Birthday Parties",
+        "price": "$500 - $1,500",
+        "short_description": "Fantastic birthday parties",
+        "long_description": "Celebrate your special day with a fantastic birthday party organized by our experienced team. From themed decorations to entertainment and delicious cakes, we'll ensure that your birthday celebration is a memorable and enjoyable experience for you and your guests."
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/N7N2fNt/7504742-11.jpg",
+        "title": "Holiday Gatherings",
+        "price": "$1,000 - $3,000",
+        "short_description": "Unforgettable holiday memories",
+        "long_description": "Create unforgettable holiday memories with our holiday gathering planning services. Whether it's a family reunion, a festive Christmas party, or a New Year's celebration, we'll handle all the details, so you can relax and enjoy the festivities with your loved ones."
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/Fw6vKZH/maxresdefault.jpg",
+        "title": "Baby Shower",
+        "price": "$750 - $2,000",
+        "short_description": "Joyful baby shower celebrations",
+        "long_description": "Welcome the arrival of a new family member with a joyful baby shower celebration. We'll take care of the decorations, games, and treats, so you can focus on sharing this special moment with friends and family."
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/sPQyFxc/Catering-Shot-Full-Food-1080x675.jpg",
+        "title": "Religious Festivals",
+        "price": "Contact for Price",
+        "short_description": "Celebrate religious festivals",
+        "long_description": "Celebrate religious festivals with our event planning services. Whether it's a grand religious ceremony or a community gathering for a religious holiday, we'll assist you in organizing a meaningful and spiritually enriching event."
+    }
+]

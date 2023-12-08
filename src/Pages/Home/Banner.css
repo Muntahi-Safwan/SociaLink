@@ -1,0 +1,11 @@
+.banner {
+    background-image: url(../../assets/Cloudy.svg);
+}
+.banner-txt {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
